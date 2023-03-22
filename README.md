@@ -1,4 +1,4 @@
-# Programming-in-C-A-Hands-on-Introduction
+# Programming in C++: A Hands-on Introduction course
 
 HI , here I am attaching the Course-3 and Course-4 cpp code files of Programming in C++: A Hands-on Introduction course in Coursera.
 
